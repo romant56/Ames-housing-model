@@ -1,16 +1,24 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
-### Problem Statement:
-This presentation aims to create a reliable model to predict the sale price of homes in the Ames, Iowa area.  It will first analyze the data to look for correlation, then explore different models, and finally choose the most appropriate one.  The conclusion will also address limits on the application of this data to other cities/regions.
+Welcome to Project 2! It's time to start modeling.
 
+**Primary Learning Objectives:**
 
-### Data used:
+1. Creating and iteratively refining a regression model
+1. Using [Kaggle](https://www.kaggle.com/) to practice the modeling process
+1. Providing business insights through reporting and presentation.
 
-The Ames Housing Dataset is an exceptionally detailed and robust dataset with over 70 columns of different features relating to houses.  It is used by the Ames Assessor's Office to compute assessed vales for individual residential properties sold in Ames, IA from 2006 to 2010.  More information about this data, including a data dictionary, can be found here:
+You are tasked with creating a regression model based on the Ames Housing Dataset. This model will predict the price of a house at sale.
 
-http://jse.amstat.org/v19n3/decock/DataDocumentation.txt
+The Ames Housing Dataset is an exceptionally detailed and robust dataset with over 70 columns of different features relating to houses.
 
+Secondly, we are hosting a competition on Kaggle to give you the opportunity to practice the following skills:
 
+- Refining models over time
+- Use of train-test split, cross-validation, and data with unknown values for the target to simulate the modeling process
+- The use of Kaggle as a place to practice data science
+
+As always, you will be submitting a technical report and a presentation. **You may find that the best model for Kaggle is not the best model to address your data science problem.**
 
 ## Set-up
 
